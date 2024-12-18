@@ -72,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734458851133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added new files. initial commit">
+      <option name="closed" value="true" />
+      <created>1734459300641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734459300641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
